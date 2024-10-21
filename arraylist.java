@@ -28,3 +28,19 @@ class ArrayLists{
     }
     
 }
+
+
+/*
+java -cp /tmp/RDjoAVgMt6/ArrayLists
+[9, 7, 3]
+9
+[9, 7, 2, 3]
+[9, 7, 2]
+3
+9
+7
+2
+[2, 7, 9]
+
+=== Code Execution Successful ===
+*/
