@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a passionate **Flutter & Full-Stack Developer*
 
 - Email: prajapatiraj459@gmail.com
 - LinkedIn: https://www.linkedin.com/in/rajp459 
-- Portfolio: [rajprajapati.dev](https://rajprajapati.dev)  
+- Portfolio: [rajprajapati.dev](https://portfolio-chi-roan-88.vercel.app/)  
 
 ---
 
